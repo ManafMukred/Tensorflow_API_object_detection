@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>ZveWRNmdKejc1c4w.png</filename>
+	<path>E:\od\data_rpsf\paper\ZveWRNmdKejc1c4w.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>41</ymin>
+			<xmax>281</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
