@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>UuF8mRQ3FDM6fOmp.png</filename>
+	<path>E:\od\data_rpsf\paper\UuF8mRQ3FDM6fOmp.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>38</ymin>
+			<xmax>255</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

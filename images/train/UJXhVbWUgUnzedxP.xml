@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>UJXhVbWUgUnzedxP.png</filename>
+	<path>E:\od\data_rpsf\paper\UJXhVbWUgUnzedxP.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>14</ymin>
+			<xmax>292</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
