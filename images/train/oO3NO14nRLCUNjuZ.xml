@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rock</folder>
+	<filename>oO3NO14nRLCUNjuZ.png</filename>
+	<path>E:\od\data_rpsf\rock\oO3NO14nRLCUNjuZ.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>58</ymin>
+			<xmax>245</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
