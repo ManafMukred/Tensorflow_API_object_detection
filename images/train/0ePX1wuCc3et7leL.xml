@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scissor</folder>
+	<filename>0ePX1wuCc3et7leL.png</filename>
+	<path>E:\od\data_rpsf\scissor\0ePX1wuCc3et7leL.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>41</ymin>
+			<xmax>266</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
