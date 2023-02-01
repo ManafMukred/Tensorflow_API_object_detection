@@ -8,10 +8,9 @@ This project is an object detection and localization using Object Detection API 
 # Steps:
 
 
-1.   ### Data preprocessing (explained in this notebook)
+1.   ### Data preprocessing 
 2.   ### Training
 3.   ### Evaluation  
 
-
-
+all these steps are found in separate **.ipynb** files in the repo
 
