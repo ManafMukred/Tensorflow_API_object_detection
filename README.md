@@ -7,10 +7,9 @@ This project is an object detection and localization using Object Detection API 
 
 # Code:
 
-The **project_RPS.ipynb** notebook is divided into 3 sections:
+Notebooks are divided into two sections:
 
-1.   ### Data preprocessing 
-2.   ### Training
-3.   ### Evaluation  
+1.   ### Data preprocessing & training
+2.   ### Evaluation  
 
 
